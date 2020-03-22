@@ -1,3 +1,2 @@
 
-Site desenvolvido durante o curso de desenvolvimento web
-site ficticio
+Site desenvolvido durante o curso de desenvolvimento web /// todas as informaçãoes são fictícia
